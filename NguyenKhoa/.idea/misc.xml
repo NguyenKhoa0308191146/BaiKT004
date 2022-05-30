@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Flie study/SmartPhone/NguyenKhoa/app/src/main/res/drawable/botron.xml" value="0.215" />
+        <entry key="..\:/Flie study/SmartPhone/NguyenKhoa/app/src/main/res/drawable/botron_tin.xml" value="0.215" />
+        <entry key="..\:/Flie study/SmartPhone/NguyenKhoa/app/src/main/res/drawable/ic_baseline_notifications_active_24.xml" value="0.215" />
+        <entry key="..\:/Flie study/SmartPhone/NguyenKhoa/app/src/main/res/layout/activity_main.xml" value="0.2296875" />
+        <entry key="..\:/Flie study/SmartPhone/NguyenKhoa/app/src/main/res/layout/activity_main1.xml" value="0.264" />
+        <entry key="..\:/Flie study/SmartPhone/NguyenKhoa/app/src/main/res/layout/activity_main2.xml" value="0.2296875" />
+        <entry key="..\:/Flie study/SmartPhone/NguyenKhoa/app/src/main/res/layout/botron.xml" value="0.18846153846153846" />
+        <entry key="..\:/Flie study/SmartPhone/NguyenKhoa/app/src/main/res/layout/chitiet_caothang.xml" value="0.2296875" />
+        <entry key="..\:/Flie study/SmartPhone/NguyenKhoa/app/src/main/res/layout/listview_caothang.xml" value="0.22864583333333333" />
+        <entry key="..\:/Flie study/SmartPhone/NguyenKhoa/app/src/main/res/layout/listview_thongbao.xml" value="0.4" />
+        <entry key="..\:/Flie study/SmartPhone/NguyenKhoa/app/src/main/res/menu/mymenu.xml" value="0.2296875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
